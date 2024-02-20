@@ -59,8 +59,9 @@ yarn dev
 프로젝트 기능, 진행 플로우
 / 유튜브 링크를 넣어보아요~
 
-아키텍처 다이어그램
+서버 아키텍처 다이어그램
 <br/>
+<img src="https://github.com/GroundGuardians/.github/assets/89023026/35608150-af75-4d0e-95d5-774336486fb3" height="350"/></p>
 <br/>
 
 ## 📜 Reference
