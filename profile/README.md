@@ -17,7 +17,7 @@ https://ground-guardians.vercel.app
 <br/>
 
 ## Team OnePeace
-|<img src="https://avatars.githubusercontent.com/u/93575538?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/89023026?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/99591750?v=4" width="150" height="150"/>|<img src="" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/93575538?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/89023026?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/99591750?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134673146?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |Dahyun Moon<br/>[@moondda](https://github.com/moondda)|Sumin Shin<br/>[@suminnnnn](https://github.com/suminnnnn)|Munyeong Jung<br/>[@munyeong0103](https://github.com/munyeong0103)|Eunbi Hwang<br/>[@eunv0110](https://github.com/eunv0110)|
 |FE developer|BE developer|BE developer|Designer|
