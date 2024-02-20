@@ -5,8 +5,8 @@
 <br>
 
 ## Description
-간단한 프로젝트 소개 (2~3줄)
 The GroundGuardians project is dedicated to raising awareness of ongoing environmental destruction and the crisis of animal extinction. Our team believe that only through our collective efforts and concern can peace and balance be restored to the Earth. Our goal is to spread awareness of issues threatening the planer, fostering a shared commitment to drive positive change. Let's work together to safeguard the Earth and build a peaceful future.
+
 <br/>
 <br/>
 
@@ -33,6 +33,13 @@ https://ground-guardians.vercel.app
 Vite , React , Typescript, Emotion ,  Embla , Axios , Yarn ,
 
 #### Backend
+
+Springboot, Java
+
+#### Infrastructure & Databases
+
+MySQL , AWS , Docker , Jenkins
+
 
 <br/>
 <br/>
