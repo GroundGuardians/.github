@@ -20,7 +20,7 @@ https://ground-guardians.vercel.app
 |<img src="https://avatars.githubusercontent.com/u/93575538?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/89023026?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/99591750?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134673146?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |Dahyun Moon<br/>[@moondda](https://github.com/moondda)|Sumin Shin<br/>[@suminnnnn](https://github.com/suminnnnn)|Munyeong Jung<br/>[@munyeong0103](https://github.com/munyeong0103)|Eunbi Hwang<br/>[@eunv0110](https://github.com/eunv0110)|
-|FE developer|BE developer|BE developer|Designer|
+|Team Lead, FE developer|BE developer|BE developer|Designer|
 |??.ajou.ac.kr|??.ajou.ac.kr|skymy02@ajou.ac.kr|??.ajou.ac.kr|
 
 <br/>
@@ -30,6 +30,8 @@ https://ground-guardians.vercel.app
 사용한 기술 프레임워크/스택
 #### Frontend
 
+Vite , React , Typescript, Emotion ,  Embla , Axios , Yarn ,
+
 #### Backend
 
 <br/>
@@ -37,8 +39,11 @@ https://ground-guardians.vercel.app
 
 ## Installation
 프로젝트 설치 및 실행 방법
+
 ```
-?
+git clone https://github.com/GroundGuardians/GG_FE.git
+yarn
+yarn dev
 ```
 
 <br/>
@@ -52,3 +57,4 @@ https://ground-guardians.vercel.app
 
 ## Reference
 참고 자료
+유투브 링크를 넣어보아요~
