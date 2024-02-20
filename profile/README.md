@@ -4,10 +4,9 @@
 <br>
 <br>
 
-## Description
+## ✍🏻 Description
 The GroundGuardians project is dedicated to raising awareness of ongoing environmental destruction and the crisis of animal extinction. Our team believe that only through our collective efforts and concern can peace and balance be restored to the Earth. Our goal is to spread awareness of issues threatening the planer, fostering a shared commitment to drive positive change. Let's work together to safeguard the Earth and build a peaceful future.
 
-<br/>
 <br/>
 
 #### Deployment Link
@@ -16,7 +15,7 @@ https://ground-guardians.vercel.app
 <br/>
 <br/>
 
-## Team OnePeace
+## 👩🏻‍💻 Team OnePeace
 |<img src="https://avatars.githubusercontent.com/u/93575538?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/89023026?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/99591750?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134673146?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |Dahyun Moon<br/>[@moondda](https://github.com/moondda)|Sumin Shin<br/>[@suminnnnn](https://github.com/suminnnnn)|Munyeong Jung<br/>[@munyeong0103](https://github.com/munyeong0103)|Eunbi Hwang<br/>[@eunv0110](https://github.com/eunv0110)|
@@ -26,7 +25,7 @@ https://ground-guardians.vercel.app
 <br/>
 <br/>
 
-## Technologies
+## 🛠️ Technologies
 사용한 기술 프레임워크/스택
 #### Frontend
 
@@ -44,7 +43,7 @@ MySQL , AWS , Docker , Jenkins
 <br/>
 <br/>
 
-## Installation
+## ⬇️ Installation
 프로젝트 설치 및 실행 방법
 
 ```
@@ -56,12 +55,12 @@ yarn dev
 <br/>
 <br/>
 
-## Feature
+## 🫧 Feature
 프로젝트 기능, 진행 플로우
 유투브 링크를 넣어보아요~
 <br/>
 <br/>
 
-## Reference
+## 📜 Reference
 참고 자료
 
